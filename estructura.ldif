@@ -10,12 +10,12 @@
 version: 1
 
 # Entry 1: dc=medicalia,dc=local
-dn: dc=medicalia,dc=local
-dc: medicalia
-o: Medicalia
-objectclass: top
-objectclass: dcObject
-objectclass: organization
+#dn: dc=medicalia,dc=local
+#dc: medicalia
+#o: Medicalia
+#objectclass: top
+#objectclass: dcObject
+#objectclass: organization
 
 # Entry 2: ou=Desarrollo,dc=medicalia,dc=local
 dn: ou=Desarrollo,dc=medicalia,dc=local
